@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data class="FooterView">
+
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f5f6f6"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="刷新中"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal"
+            android:layout_height="30dp" />
+
+    </LinearLayout>
+</layout>
