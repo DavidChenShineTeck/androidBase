@@ -7,4 +7,4 @@
 ## 相关资源
 [FastAndroidDev](http://ijustyce.win/sort/fastandroiddev)
 [FastAndroidDev备用,17年3月份过期](http://ijustyce.com/sort/fastandroiddev)
-[我的新博客](http://blog.ijustyce.win/categories/android/)
+
